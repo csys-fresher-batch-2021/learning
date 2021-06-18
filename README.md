@@ -1,6 +1,6 @@
 # Study Plan to become a Java Developer
 
-## Project #1: OlaCab Fare Calculation ( 2 weeks )
+### Project #1: OlaCab Fare Calculation ( 2 weeks )
 
 #### Programming Fundamentals ( 10-20 hours ) 
 *  DataTypes(int,String,boolean,LocalDate,LocalDateTime, double)
@@ -29,7 +29,7 @@
 
 ### Milestone 1: If you have understood the above concepts, you can join "Core Java" course and start Project #2.
 
-## Project 2: Develop a Core Java Application => e.g: TaskApp Core Java Maven Project ( Duration: 2 weeks )
+### Project 2: Develop a Core Java Application => e.g: TaskApp Core Java Maven Project ( Duration: 2 weeks )
 
 #### Core Java ( 40 hours )
 * Collections - Generics, ArrayList,HashSet, HashMap, foreach loop

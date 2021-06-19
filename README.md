@@ -13,7 +13,7 @@
 * assertEquals, assertNotNull, assertNull, assertTrue, assertFalse
 
 #### HTML ( 2-5 hours)
-* Forms - textbox, password, number, email, date, radio, checkbox, button
+* Forms - textbox, password, number, email, date, radio, checkbox, button,select
 * Table - thead,tbody,tr,th,td
 
 #### JavaScript ( 2-4 hours)
